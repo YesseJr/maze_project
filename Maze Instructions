@@ -1,0 +1,26 @@
+# Instructins to be followed.
+# Author: Waython Yesse
+# Address: waythonny@yahoo.com
+# Year: 2022 June 26
+
+ESC - Closes Maze application
+LEFT CTRL - Toggles between mouse mode and keyboard only mode.
+
+# Instructions when in All modes (Mouse and Keboard).
+All modes:
+W - Move forward
+S - Move backward
+SHIFT - Hold to sprint.
+Z - To crouch/stand.
+TAB - Open Minimap.
+
+# Instructions when in Mouse Mode.
+Mouse mode:
+Rotate camera using the mouse.
+A - Move laterally left.
+D - Move laterally right.
+
+# Instructions when in Keyboard only Mode.
+Keyboard only mode:
+A - Rotate camera left.
+D - Rotate camera right.
